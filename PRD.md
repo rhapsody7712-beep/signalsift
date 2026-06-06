@@ -1,11 +1,13 @@
 # SignalSift — Product Requirements Document
 
-**Status:** Draft v1.0 · **Owner:** [you] · **Date:** June 2026
+**Status:** Draft v1.0 · **Owner:** [Umang Shrivastava] · **Date:** June 2026
 **Audience:** Engineering (incl. Claude Code build), product, recruiting stakeholders
 
 ---
 
 ## 1. Summary
+
+The Problem Signalsift  tries to solve is giving recruiter a screeening agent whihc provides a score or all the resumes screened and focusses on the end benfactor of the service , Hiring team and the organization
 
 SignalSift is an AI-resilient candidate screening platform. It ingests a batch of
 resumes for a role and produces a **ranked, explainable Signal Score** for each
